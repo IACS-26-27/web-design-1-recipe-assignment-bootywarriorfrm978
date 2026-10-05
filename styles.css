@@ -2,5 +2,17 @@
 h1 {
   /* Demo style -- remove me and write your own */
   font-size: 48px;
-  color: purple;
+  padding: 65px 50px;
+  background-color: #FBFFB9;
+  text-align: center;
+  color: #d4b175;
+}
+
+main {
+  max-width: 1000px;
+  margin-inline: auto;
+}
+body{ color: #754F44;
+  background-color: #E1CE7A;
+
 }
