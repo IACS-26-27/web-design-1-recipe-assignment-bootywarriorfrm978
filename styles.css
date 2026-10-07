@@ -1,12 +1,24 @@
 /* Your styles go here! */
+/* AI-generated code starts here */
+/* Student prompt: "Use the Edu QLD Hand font for all paragraph text." */
+p {
+  font-family: "Edu QLD Hand", "Comic Sans MS", cursive;
+  line-height: 1.6;
+}
+/* AI-generated code ends here */
+
+/* AI-generated code starts here */
+/* Student prompt: "Use Zilla Slab for the main heading h1." */
 h1 {
-  /* Demo style -- remove me and write your own */
+  font-family: "Zilla Slab", Georgia, serif;
+  font-weight: 700;
   font-size: 48px;
   padding: 65px 50px;
   background-color: #FBFFB9;
   text-align: center;
   color: #d4b175;
 }
+/* AI-generated code ends here */
 
 main {
   max-width: 1000px;
