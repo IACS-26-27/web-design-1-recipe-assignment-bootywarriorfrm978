@@ -14,9 +14,9 @@ h1 {
   font-weight: 700;
   font-size: 48px;
   padding: 65px 50px;
-  background-color: #FBFFB9;
+  background-color: #99816c;
   text-align: center;
-  color: #d4b175;
+  color: #ffede2;
 }
 /* AI-generated code ends here */
 
@@ -25,6 +25,14 @@ main {
   margin-inline: auto;
 }
 body{ color: #754F44;
-  background-color: #E1CE7A;
+  background-color: #D0B8AC;
 
 }
+ 
+.image-container {
+  text-align: center;
+  /* Centers any inline elements (like images) inside it */
+}
+ h3 {
+  text-align: center;
+ }
